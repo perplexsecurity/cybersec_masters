@@ -1,1 +1,1 @@
-# cybersec_masters
+# cybersec_masters_projects
